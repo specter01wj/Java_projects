@@ -1,2 +1,3 @@
-# Java_projects
-My Java projects Collections
+# My Java Projects
+My Java projects Collections<br>
+By Jin Wang
